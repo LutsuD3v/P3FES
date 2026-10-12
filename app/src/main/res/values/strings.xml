@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Persona 3 FES</string>
+    <string name="launcher_subtitle">ANDROID EDITION</string>
+    <string name="default_game_title">Persona 3 FES</string>
+    <string name="default_game_platform">PlayStation 2</string>
+    <string name="status_not_configured">Não configurado</string>
+    <string name="status_ready">Pronto</string>
+    <string name="status_not_connected">Emulador não conectado</string>
+    <string name="btn_start_game">START GAME</string>
+    <string name="btn_game_library">GAME LIBRARY</string>
+    <string name="btn_settings">SETTINGS</string>
+    <string name="nav_home">HOME</string>
+    <string name="nav_library">LIBRARY</string>
+    <string name="nav_graphics">GRAPHICS</string>
+    <string name="nav_controls">CONTROLS</string>
+    <string name="nav_settings">SETTINGS</string>
+</resources>
